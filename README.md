@@ -1,0 +1,2 @@
+# Experimental-evaluation-of-vision-based-navigation-strategies-for-autonomous-line-following-robots
+This thesis focuses on the design and experimental evaluation of vision-based navigation strategies for autonomous line-following robots. A Raspberry Pi 5-based robotic platform was developed and tested using different image-processing approaches and an IR sensor-based baseline to assess navigation accuracy, stability, and performance.
